@@ -1,0 +1,9 @@
+bin
+build
+dist
+input
+venv
+__pycache__
+.DS_Store
+*.spec
+.vscode
