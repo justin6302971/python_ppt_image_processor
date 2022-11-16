@@ -4,6 +4,7 @@ dist
 output
 venv
 __pycache__
-.DS_Store
+*.DS_Store
 *.spec
 .vscode
+input
